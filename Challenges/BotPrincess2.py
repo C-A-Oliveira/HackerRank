@@ -1,4 +1,4 @@
-# https://www.hackerrank.com/challenges/saveprincess/problem
+# https://www.hackerrank.com/challenges/saveprincess2/problem
 
 def nextMove(n,r,c,grid):
     m_coord = [r,c]
